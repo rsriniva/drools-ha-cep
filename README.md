@@ -1,2 +1,2 @@
 # drools-ha-cep
-Drools HA CEP
+Source code for article http://www.plugtree.com/making-a-non-persistent-ha-knowledge-session/
